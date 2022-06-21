@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="FloristeriaParcialModelStoreContainer" CdmEntityContainer="FloristeriaParcialEntities1">
+    <EntitySetMapping Name="Flores">
+      <EntityTypeMapping TypeName="FloristeriaParcialModel.Flores">
+        <MappingFragment StoreEntitySet="Flores">
+          <ScalarProperty Name="idFlor" ColumnName="idFlor" />
+          <ScalarProperty Name="nombreFlor" ColumnName="nombreFlor" />
+          <ScalarProperty Name="cantidad" ColumnName="cantidad" />
+          <ScalarProperty Name="precio" ColumnName="precio" />
+          <ScalarProperty Name="estado" ColumnName="estado" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

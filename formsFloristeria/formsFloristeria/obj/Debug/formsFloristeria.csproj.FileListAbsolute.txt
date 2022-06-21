@@ -1,0 +1,17 @@
+C:\Users\adoX1\Documents\codeVS2022\formsFloristeria\formsFloristeria\bin\Debug\formsFloristeria.exe.config
+C:\Users\adoX1\Documents\codeVS2022\formsFloristeria\formsFloristeria\bin\Debug\formsFloristeria.exe
+C:\Users\adoX1\Documents\codeVS2022\formsFloristeria\formsFloristeria\bin\Debug\formsFloristeria.pdb
+C:\Users\adoX1\Documents\codeVS2022\formsFloristeria\formsFloristeria\bin\Debug\EntityFramework.dll
+C:\Users\adoX1\Documents\codeVS2022\formsFloristeria\formsFloristeria\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\adoX1\Documents\codeVS2022\formsFloristeria\formsFloristeria\bin\Debug\EntityFramework.xml
+C:\Users\adoX1\Documents\codeVS2022\formsFloristeria\formsFloristeria\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\adoX1\Documents\codeVS2022\formsFloristeria\formsFloristeria\obj\Debug\formsFloristeria.csproj.AssemblyReference.cache
+C:\Users\adoX1\Documents\codeVS2022\formsFloristeria\formsFloristeria\obj\Debug\formsFloristeria.csproj.SuggestedBindingRedirects.cache
+C:\Users\adoX1\Documents\codeVS2022\formsFloristeria\formsFloristeria\obj\Debug\formsFloristeria.Form1.resources
+C:\Users\adoX1\Documents\codeVS2022\formsFloristeria\formsFloristeria\obj\Debug\formsFloristeria.Properties.Resources.resources
+C:\Users\adoX1\Documents\codeVS2022\formsFloristeria\formsFloristeria\obj\Debug\formsFloristeria.csproj.GenerateResource.cache
+C:\Users\adoX1\Documents\codeVS2022\formsFloristeria\formsFloristeria\obj\Debug\formsFloristeria.csproj.CoreCompileInputs.cache
+C:\Users\adoX1\Documents\codeVS2022\formsFloristeria\formsFloristeria\obj\Debug\formsFloristeria.csproj.CopyComplete
+C:\Users\adoX1\Documents\codeVS2022\formsFloristeria\formsFloristeria\obj\Debug\formsFloristeria.exe
+C:\Users\adoX1\Documents\codeVS2022\formsFloristeria\formsFloristeria\obj\Debug\formsFloristeria.pdb
+C:\Users\adoX1\Documents\codeVS2022\formsFloristeria\formsFloristeria\obj\Debug\formsFloristeria.Presentacion.Presentacion.resources

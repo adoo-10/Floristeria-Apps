@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="FloristeriaParcialModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Flores">
+    <Key>
+      <PropertyRef Name="idFlor" />
+    </Key>
+    <Property Name="idFlor" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nombreFlor" Type="String" MaxLength="45" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="cantidad" Type="Int32" Nullable="false" />
+    <Property Name="precio" Type="Decimal" Precision="5" Scale="2" Nullable="false" />
+    <Property Name="estado" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="FloristeriaParcialEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Flores" EntityType="Self.Flores" />
+  </EntityContainer>
+</Schema>
